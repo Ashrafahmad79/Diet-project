@@ -1,0 +1,137 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 43px;
+}
+
+h2 {
+    color: rgb(204, 139, 18)
+}
+
+p {
+    font-size: medium;
+}
+
+.col {
+    color: rgb(255, 174, 0)
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 153, 7), tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 600;
+
+
+}
+
+.color {
+    color: rgb(150, 150, 150);
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+.flex {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#shape {
+    width: 100%;
+
+}
+
+#female {
+    width: 50%;
+}
+
+.title-1 {
+    color: rgb(163, 162, 162);
+}
+
+.b-img {
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.text {
+    text-align: center;
+    padding: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+.third-thing {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.size {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+
+
+#resize {
+    padding-top: 20px;
+    width: 100%
+}
+
+#re-size {
+    padding-top: 20px;
+    width: 100%
+}
+
+.fourth-thing {
+    display: flex;
+    box-shadow: 10px 10px 40px;
+    margin-bottom: 70px;
+
+}
+
+.dic {
+    padding-left: 130px;
+}
+
+.finish {
+    font-size: small;
+    color: grey;
+}
+
+.fifth {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(6, 1, 36);
+    text-align: center;
+}
+
+.last-col {
+    color: rgb(255, 94, 0);
+    padding-right: 5px;
+}
+
+.last-color {
+    color: grey;
+}
+
+.small {
+    color: white;
+}
